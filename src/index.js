@@ -30,7 +30,7 @@ const store = createStore(
 
 ReactDOM.render(
 	<Provider store={store}>
-		<BrowserRouter>
+		<BrowserRouter basename='/myBurger-react-app/'>
 			<App />
 		</BrowserRouter>
 	</Provider>,
