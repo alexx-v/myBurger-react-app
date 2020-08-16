@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/myBurger-react-app/static/css/main.013eb44d.chunk.css",
+    "main.js": "/myBurger-react-app/static/js/main.f49b60fa.chunk.js",
+    "main.js.map": "/myBurger-react-app/static/js/main.f49b60fa.chunk.js.map",
+    "runtime-main.js": "/myBurger-react-app/static/js/runtime-main.c86271bb.js",
+    "runtime-main.js.map": "/myBurger-react-app/static/js/runtime-main.c86271bb.js.map",
+    "static/js/2.7c86e8f3.chunk.js": "/myBurger-react-app/static/js/2.7c86e8f3.chunk.js",
+    "static/js/2.7c86e8f3.chunk.js.map": "/myBurger-react-app/static/js/2.7c86e8f3.chunk.js.map",
+    "static/css/3.22920352.chunk.css": "/myBurger-react-app/static/css/3.22920352.chunk.css",
+    "static/js/3.5a0d73d6.chunk.js": "/myBurger-react-app/static/js/3.5a0d73d6.chunk.js",
+    "static/js/3.5a0d73d6.chunk.js.map": "/myBurger-react-app/static/js/3.5a0d73d6.chunk.js.map",
+    "static/css/4.7ab15faf.chunk.css": "/myBurger-react-app/static/css/4.7ab15faf.chunk.css",
+    "static/js/4.17e9e1eb.chunk.js": "/myBurger-react-app/static/js/4.17e9e1eb.chunk.js",
+    "static/js/4.17e9e1eb.chunk.js.map": "/myBurger-react-app/static/js/4.17e9e1eb.chunk.js.map",
+    "static/css/5.e8a10254.chunk.css": "/myBurger-react-app/static/css/5.e8a10254.chunk.css",
+    "static/js/5.a5178c19.chunk.js": "/myBurger-react-app/static/js/5.a5178c19.chunk.js",
+    "static/js/5.a5178c19.chunk.js.map": "/myBurger-react-app/static/js/5.a5178c19.chunk.js.map",
+    "static/js/6.e7a8343e.chunk.js": "/myBurger-react-app/static/js/6.e7a8343e.chunk.js",
+    "static/js/6.e7a8343e.chunk.js.map": "/myBurger-react-app/static/js/6.e7a8343e.chunk.js.map",
+    "index.html": "/myBurger-react-app/index.html",
+    "precache-manifest.d909c7f21e65da6132fb9e153e104e9e.js": "/myBurger-react-app/precache-manifest.d909c7f21e65da6132fb9e153e104e9e.js",
+    "service-worker.js": "/myBurger-react-app/service-worker.js",
+    "static/css/3.22920352.chunk.css.map": "/myBurger-react-app/static/css/3.22920352.chunk.css.map",
+    "static/css/4.7ab15faf.chunk.css.map": "/myBurger-react-app/static/css/4.7ab15faf.chunk.css.map",
+    "static/css/5.e8a10254.chunk.css.map": "/myBurger-react-app/static/css/5.e8a10254.chunk.css.map",
+    "static/css/main.013eb44d.chunk.css.map": "/myBurger-react-app/static/css/main.013eb44d.chunk.css.map",
+    "static/js/2.7c86e8f3.chunk.js.LICENSE.txt": "/myBurger-react-app/static/js/2.7c86e8f3.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.png": "/myBurger-react-app/static/media/burger-logo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c86271bb.js",
+    "static/js/2.7c86e8f3.chunk.js",
+    "static/css/main.013eb44d.chunk.css",
+    "static/js/main.f49b60fa.chunk.js"
+  ]
+}
